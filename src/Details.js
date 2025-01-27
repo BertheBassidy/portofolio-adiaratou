@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/ui/profile.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -30,23 +30,23 @@ import projectImage6 from "./assets/projects/project6.jpg";
 // Logos
 export const logos = {
   logogradient: logogradient,
-  logo: logo,
+  // logo: logo,
 };
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Hawa Diallo",
+  tagline: "I'm a Junior Developer Web Front-end  ",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Motivated junior developer, passionate about new technologies and developing efficient software solutions. Recently graduated in computer science, I have acquired solid programming skills, as well as a good understanding of good development practices and project management. My goal is to actively contribute to development projects while continuing to learn and progress within a dynamic team.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "/",
+  github: "/",
+  twitter: "/",
+  instagram: "/",
 };
 
 // Enter your Work Experience here
@@ -170,6 +170,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "diallosirani@gmail.com",
+  phone: "+223 70 79 11 79",
 };
