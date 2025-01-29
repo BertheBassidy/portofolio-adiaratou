@@ -35,10 +35,22 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Hawa Diallo",
+  name: "Adjaratou Koné",
   tagline: "I'm a Junior Developer Web Front-end  ",
   img: profile,
-  about: `Motivated junior developer, passionate about new technologies and developing efficient software solutions. Recently graduated in computer science, I have acquired solid programming skills, as well as a good understanding of good development practices and project management. My goal is to actively contribute to development projects while continuing to learn and progress within a dynamic team.`,
+  about: `Hello and welcome to my professional world!
+
+    My name is Adjaratou Koné, a versatile professional passionate about web development, project management, and digital marketing. With degrees in IT Management and Economic and Financial Engineering, I have acquired solid expertise combining technology, management strategies, and communication.
+
+    My journey has allowed me to excel in multifunctional roles, particularly as a community manager and web developer. I have had the opportunity to contribute to companies such as Bi Musso and Sokaf Group Mali, where I designed websites, developed digital strategies, and created engaging content to promote local and industrial products.
+
+    Driven by creativity and a sense of innovation, I always strive to turn ideas into concrete results. My goal? 
+
+    To help businesses and projects shine through tailored digital solutions.
+
+    Keywords that define me: Dynamic, creative, detail-oriented, and results-driven.
+
+  `,
 };
 
 // Enter your Social Media URLs here
@@ -170,6 +182,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "diallosirani@gmail.com",
-  phone: "+223 70 79 11 79",
+  email: "adjaratoukone7224@gmail.com",
+  phone: "+223 72 24 32 71",
 };
