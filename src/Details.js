@@ -55,7 +55,7 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "/",
+  linkdein: "https://www.linkedin.com/in/hawa-hamalla-diallo-42b514162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "/",
   twitter: "/",
   instagram: "/",
